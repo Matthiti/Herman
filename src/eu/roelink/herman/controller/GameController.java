@@ -50,7 +50,6 @@ public class GameController {
             while ((winners = game.getTable().getRoundWinner()).size() > 1) {
                 game.getTable().markCardsAsHidden();
                 for (Player player : winners) {
-                    //TODO: check if player has enough cards
                     Card card = player.throwCard();
                     if (card == null) {
                         game.getTable().throwLastCard(player);
