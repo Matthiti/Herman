@@ -19,5 +19,5 @@ The rules of "Herman" are simple:
 
 ## Contributers
 
-- [Matthiti_13](https://gitlab.com/Matthiti)
+- [Matthiti_13](https://github.com/Matthiti)
 - Nikki Zandbergen
