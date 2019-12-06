@@ -2,6 +2,8 @@
 
 This is an implementation of the game "Herman". Currently, this game can be played with two, three or four players, but can be easily extended to support more players. 
 
+## Rules
+
 The rules of "Herman" are simple:
 
 - All cards are divided over all players. In case of three players, the first players gets an extra card.
@@ -14,3 +16,8 @@ The rules of "Herman" are simple:
 - If a player does not have any cards left in both his deck and his "won cards"-pile at the start of a round, that player is out of the game.
 - If a player does not have any cards left in both his deck and his "won cards"-pile in the middle of a round, then the last card it threw is rethrown.
 - The winner is the player that played away the other players and has all the cards.
+
+## Contributers
+
+- [Matthiti_13](https://gitlab.com/Matthiti)
+- Nikki Zandbergen
