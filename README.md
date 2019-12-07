@@ -17,7 +17,7 @@ The rules of "Herman" are simple:
 - If a player does not have any cards left in both his deck and his "won cards"-pile in the middle of a round, then the last card it threw is rethrown.
 - The winner is the player that played away the other players and has all the cards.
 
-## Contributers
+## Contributors
 
 - [Matthiti_13](https://github.com/Matthiti)
 - Nikki Zandbergen
